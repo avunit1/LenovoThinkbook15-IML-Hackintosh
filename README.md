@@ -1,5 +1,4 @@
-# Lenovo Thinkbook 15-IML (Big Sur 11.2.3 hackintosh)
-   ![](Images/About.png)
+# Lenovo Thinkbook 15-IML (Big Sur 11 Hackintosh using Opencore)
 
 | Specifications | Details |
 |:-: |:-: |
